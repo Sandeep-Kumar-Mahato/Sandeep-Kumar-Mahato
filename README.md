@@ -3,11 +3,11 @@
 <h6>🌱 I’m currently learning Backend</h6>
 <h6>💞️ I’m looking to collaborate on ...</h6>
 <h6>📫 How to reach me ...</h6>
-<div>
+<h6>
  <a href="https://www.instagram.com/sandeep.mahato.3726/">
   <img src="https://user-images.githubusercontent.com/99877113/230367737-82bd815d-bb23-4df4-9175-a775ef3702ad.png" width="50"/>
  </a>
-</div>
+</h6>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
