@@ -3,11 +3,17 @@
 <h5>🌱 I’m currently learning Backend</h5>
 <h5>💞️ I’m looking to collaborate on ...</h5>
 <h5>📫 How to reach me ...</h5>
-<h6>
+<div>
  &nbsp;<a href="https://www.instagram.com/sandeep.mahato.3726/">
   <img src="https://user-images.githubusercontent.com/99877113/230385570-257edbbc-3fd3-4ee5-ad80-78a236569262.png" width="30"/>
  </a>
-</h6>
+ &nbsp;<a href="https://twitter.com/Sandeep06360711?t=E9aoPdwiXfZOtiPom9qTUA&s=03">
+  <img src="https://user-images.githubusercontent.com/99877113/230386436-6e98091d-3b10-4455-b968-74171ac721b5.png" width="30"/>
+ </a>
+ &nbsp;<a href="https://www.linkedin.com/in/sandeep-kumar-793200208/">
+  <img src="https://user-images.githubusercontent.com/99877113/230386905-e1ab067a-227f-4433-bb58-13dd16650f09.png" width="30"/>
+ </a>
+</div>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
