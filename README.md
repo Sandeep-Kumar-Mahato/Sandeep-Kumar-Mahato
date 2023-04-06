@@ -4,7 +4,7 @@
 <h6>💞️ I’m looking to collaborate on ...</h6>
 <h6>📫 How to reach me ...</h6>
 <h6>
- <a href="https://www.instagram.com/sandeep.mahato.3726/">
+ &nbsp;<a href="https://www.instagram.com/sandeep.mahato.3726/">
   <img src="https://user-images.githubusercontent.com/99877113/230367737-82bd815d-bb23-4df4-9175-a775ef3702ad.png" width="30"/>
  </a>
 </h6>
