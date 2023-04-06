@@ -4,10 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <div align="left">
- <img src="[https://user-images.githubusercontent.com/99877113/230367737-82bd815d-bb23-4df4-9175-a775ef3702ad.png" width="50"/>
+ <img src="https://user-images.githubusercontent.com/99877113/230367737-82bd815d-bb23-4df4-9175-a775ef3702ad.png" width="50"/>
 </div>
-- ![image](https://user-images.githubusercontent.com/99877113/230367737-82bd815d-bb23-4df4-9175-a775ef3702ad.png)
-
 
 <!---
 sandeep-kumar-mahato/sandeep-kumar-mahato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
