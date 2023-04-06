@@ -1,8 +1,8 @@
 <h1>👋 Hi, I’m @sandeep-kumar-mahato</h1>
-<h6>👀 I’m interested in Web Development</h6>
-<h6>🌱 I’m currently learning Backend</h6>
-<h6>💞️ I’m looking to collaborate on ...</h6>
-<h6>📫 How to reach me ...</h6>
+<h5>👀 I’m interested in Web Development</h5>
+<h5>🌱 I’m currently learning Backend</h5>
+<h5>💞️ I’m looking to collaborate on ...</h5>
+<h5>📫 How to reach me ...</h5>
 <h6>
  &nbsp;<a href="https://www.instagram.com/sandeep.mahato.3726/">
   <img src="https://user-images.githubusercontent.com/99877113/230367737-82bd815d-bb23-4df4-9175-a775ef3702ad.png" width="30"/>
