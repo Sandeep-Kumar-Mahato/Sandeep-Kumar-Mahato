@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-<div align="left">
- <img src="https://user-images.githubusercontent.com/99877113/230367737-82bd815d-bb23-4df4-9175-a775ef3702ad.png" width="50"/>
+<div>
+ <a href="https://www.instagram.com/sandeep.mahato.3726/">
+  <img src="https://user-images.githubusercontent.com/99877113/230367737-82bd815d-bb23-4df4-9175-a775ef3702ad.png" width="50"/>
+ </a>
 </div>
 
 <!---
