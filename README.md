@@ -14,9 +14,16 @@ You can click the Preview link to take a look at your changes.
  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeep-kumar-mahato)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-kumar-mahato)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeep-kumar-mahato)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
+<div id="header" align="right">
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-kumar-mahato)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
+![Snake animation](https://github.com/sandeep-kumar-mahato/sandeep-kumar-mahato/blob/output/github-contribution-grid-snake.svg)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
