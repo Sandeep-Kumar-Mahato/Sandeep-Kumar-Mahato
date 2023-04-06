@@ -16,6 +16,5 @@ You can click the Preview link to take a look at your changes.
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-![image](https://user-images.githubusercontent.com/99877113/230359080-9909622c-cd8a-48fa-a6b9-8ce09f37f5d2.png)
-
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 </p>
