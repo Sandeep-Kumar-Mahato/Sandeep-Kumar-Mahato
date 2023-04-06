@@ -5,10 +5,10 @@
 <h5>📫 How to reach me ...</h5>
 <div>
  &nbsp;<a href="https://www.sandeepmahato.live/">
- <img src="https://user-images.githubusercontent.com/99877113/230390765-45540c0d-86f0-4c4a-bf7f-033dca780bdf.png" width="30"/>
- </a><a align="center" href="https://www.sandeepmahato.live/">Website</a>
+ <img src="https://user-images.githubusercontent.com/99877113/230390765-45540c0d-86f0-4c4a-bf7f-033dca780bdf.png" width="20"/>website
+ </a>
  &nbsp;<a href="mailto:sandeepkumarmahato712@gmail.com">
-  <img src="https://user-images.githubusercontent.com/99877113/230390221-87544fbc-5682-47b1-b92d-85d3af03e682.png" width="30"/>
+  <img src="https://user-images.githubusercontent.com/99877113/230390221-87544fbc-5682-47b1-b92d-85d3af03e682.png" width="20"/>
  </a>
 </div>
 <h5>🌐Connect with me ...</h5>
