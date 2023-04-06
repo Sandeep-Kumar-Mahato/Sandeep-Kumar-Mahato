@@ -3,8 +3,7 @@
 <h5>🌱 I’m currently learning Backend</h5>
 <h5>💞️ I’m looking to collaborate on ...</h5>
 <h5>📫 How to reach me ...</h5>
-<h5>![image](https://user-images.githubusercontent.com/99877113/230388527-c27ca01c-1da6-48f7-8738-f8e12e3086c7.png)
- Connect with me ...</h5>
+<h5><img src="https://user-images.githubusercontent.com/99877113/230388527-c27ca01c-1da6-48f7-8738-f8e12e3086c7.png" width="10" /> Connect with me ...</h5>
 <div>
  &nbsp;<a href="https://www.instagram.com/sandeep.mahato.3726/">
   <img src="https://user-images.githubusercontent.com/99877113/230385570-257edbbc-3fd3-4ee5-ad80-78a236569262.png" width="30"/>
