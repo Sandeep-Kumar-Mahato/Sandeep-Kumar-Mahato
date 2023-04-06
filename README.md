@@ -5,7 +5,7 @@
 <h5>📫 How to reach me ...</h5>
 <h6>
  &nbsp;<a href="https://www.instagram.com/sandeep.mahato.3726/">
-  <img src="image.png" width="30"/>
+  <img src="https://user-images.githubusercontent.com/99877113/230385570-257edbbc-3fd3-4ee5-ad80-78a236569262.png" width="30"/>
  </a>
 </h6>
 
