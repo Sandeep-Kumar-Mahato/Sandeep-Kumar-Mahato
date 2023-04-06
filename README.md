@@ -19,8 +19,6 @@ You can click the Preview link to take a look at your changes.
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-kumar-mahato)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/sandeep-kumar-mahato/sandeep-kumar-mahato/blob/output/github-contribution-grid-snake.svg)
-
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
