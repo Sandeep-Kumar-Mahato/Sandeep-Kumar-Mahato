@@ -3,7 +3,15 @@
 <h5>🌱 I’m currently learning Backend</h5>
 <h5>💞️ I’m looking to collaborate on ...</h5>
 <h5>📫 How to reach me ...</h5>
-<h5><img src="https://user-images.githubusercontent.com/99877113/230388527-c27ca01c-1da6-48f7-8738-f8e12e3086c7.png" width="20" /> Connect with me ...</h5>
+<div>
+ &nbsp;<a href="https://www.sandeepmahato.live/">
+  <img src="https://user-images.githubusercontent.com/99877113/230390765-45540c0d-86f0-4c4a-bf7f-033dca780bdf.png" width="30"/>
+ </a>
+ &nbsp;<a href="mailto:sandeepkumarmahato712@gmail.com">
+  <img src="https://user-images.githubusercontent.com/99877113/230390221-87544fbc-5682-47b1-b92d-85d3af03e682.png" width="30"/>
+ </a>
+</div>
+<h5>🌐Connect with me ...</h5>
 <div>
  &nbsp;<a href="https://www.instagram.com/sandeep.mahato.3726/">
   <img src="https://user-images.githubusercontent.com/99877113/230385570-257edbbc-3fd3-4ee5-ad80-78a236569262.png" width="30"/>
