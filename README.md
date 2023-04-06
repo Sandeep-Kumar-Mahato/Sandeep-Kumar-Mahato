@@ -14,6 +14,10 @@ You can click the Preview link to take a look at your changes.
  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeep-kumar-mahato)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-kumar-mahato)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
@@ -36,7 +40,4 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeep-kumar-mahato)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-kumar-mahato)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-kumar-mahato&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
