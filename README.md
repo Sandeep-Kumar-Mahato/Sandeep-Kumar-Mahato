@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandeep-kumar-mahato
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
@@ -34,3 +34,9 @@ You can click the Preview link to take a look at your changes.
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original-wordmark.svg" width="50" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" />
 </p>
+
+
+[![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeep-kumar-mahato)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
